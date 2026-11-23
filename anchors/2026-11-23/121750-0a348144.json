@@ -1,0 +1,36 @@
+{
+  "format": "eucp-anchor/1",
+  "org_id": "5a66fe57-f0f7-474e-92ba-1cb5c16eb97b",
+  "generated_at": "2026-11-23T12:17:50.121Z",
+  "batch_sha256": "0a3481442459b9fdfb3c4853d46a20f38e026dfacc1ea827d467b4713e1a469f",
+  "entries": [
+    {
+      "check_id": "1e153c6f-7755-4712-8bf7-0d706413babb",
+      "control_code": "CTRL-GIT-02",
+      "evidence_sha256": "cdb3889ba450e2a264abc02e87a845b91f0d9f957fb9ba41343e2925a076ef69",
+      "checked_at": "2026-11-23T12:17:47.002637+00:00",
+      "status": "FAIL"
+    },
+    {
+      "check_id": "42b019f6-13d4-401d-a4b5-83d85b44c69a",
+      "control_code": "CTRL-SEC-06",
+      "evidence_sha256": "582390f2dd01c86dd6989f8454f0004737a25275fbaf338dd2a349601c36cba1",
+      "checked_at": "2026-11-23T12:17:47.002637+00:00",
+      "status": "PASS"
+    },
+    {
+      "check_id": "4dd1fed4-98a5-4358-8ec1-0baf051feeea",
+      "control_code": "CTRL-GIT-02",
+      "evidence_sha256": "cdb3889ba450e2a264abc02e87a845b91f0d9f957fb9ba41343e2925a076ef69",
+      "checked_at": "2026-11-23T06:17:45.939674+00:00",
+      "status": "FAIL"
+    },
+    {
+      "check_id": "c272b692-3fe4-442a-8fc2-d905a31ddf4b",
+      "control_code": "CTRL-SEC-06",
+      "evidence_sha256": "582390f2dd01c86dd6989f8454f0004737a25275fbaf338dd2a349601c36cba1",
+      "checked_at": "2026-11-23T06:17:45.939674+00:00",
+      "status": "PASS"
+    }
+  ]
+}
