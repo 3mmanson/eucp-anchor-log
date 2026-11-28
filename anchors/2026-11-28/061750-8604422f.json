@@ -1,0 +1,22 @@
+{
+  "format": "eucp-anchor/1",
+  "org_id": "5a66fe57-f0f7-474e-92ba-1cb5c16eb97b",
+  "generated_at": "2026-11-28T06:17:50.730Z",
+  "batch_sha256": "8604422f3261b8aaaf1db5be414984cc57a6b5a3ad8b95d949e8f6456670368a",
+  "entries": [
+    {
+      "check_id": "369ecec3-cffb-4f12-9e0a-2bf6d8fbde62",
+      "control_code": "CTRL-SEC-06",
+      "evidence_sha256": "582390f2dd01c86dd6989f8454f0004737a25275fbaf338dd2a349601c36cba1",
+      "checked_at": "2026-11-28T06:17:47.740568+00:00",
+      "status": "PASS"
+    },
+    {
+      "check_id": "edda9c83-a09d-4ef2-b793-2756cf4eb4f7",
+      "control_code": "CTRL-GIT-02",
+      "evidence_sha256": "cdb3889ba450e2a264abc02e87a845b91f0d9f957fb9ba41343e2925a076ef69",
+      "checked_at": "2026-11-28T06:17:47.740568+00:00",
+      "status": "FAIL"
+    }
+  ]
+}
